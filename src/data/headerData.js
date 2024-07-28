@@ -1,9 +1,8 @@
-
 export const headerData = {
-    name: 'ABU SAID',
+    name: 'NAGARJUN H BHARADWAJ',
     title: "Hello! I am",
-    desciption: "Hello! I am ABU SAID, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
-    image: 'https://i.ibb.co/ZmdNH6x/abu-said.jpg',
-    imagebw: 'https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg',
-    resumePdf: 'https://docs.google.com/document/d/1MkkoRX98FS47CaEyeodyPzi4OkW8SH7Gv55f4MQkHV8/edit?usp=sharing'
+    desciption: " A coding enthusiast and an engineer. I am highly motivated and qualified individual with a strong passion for technology and problem-solving.  Love almost all the stacks of Software Engineering. My current larning stack includes Nodejs, Nestjs, React, Bootstrap, MongoDB, Mysql, Express Js etc. I welcome the opportunity to connect with professionals and other students in the engineering community to learn and grow.",
+    image: 'public\naga portfolio image.jpeg',
+    imagebw: 'public\naga portfolio image.jpeg',
+    resumePdf: 'https://drive.google.com/file/d/1ut8GOEt9e2vQ4tgpBJnAUJIniNwTfEc1/view?usp=sharing'
 }
