@@ -4,5 +4,9 @@ export const contactsData = {
     address: 'Mysore , Karnataka ,India ',
     github: 'https://github.com/Nagarjun-07',
     linkedIn: 'https://www.linkedin.com/in/nagarjun-h/',
+<<<<<<< HEAD
     devUsername:   "Nagarjun H"
+=======
+    devUsername:"Nagarjun H"
+>>>>>>> origin/master
 }

@@ -4,6 +4,7 @@ const skillsData = [
     'Figma',
     'Javascript',
     'CSS',
+<<<<<<< HEAD
     'React',
     'python',
     'flask',
@@ -20,3 +21,15 @@ const skillsData = [
     'django',
 
 ]
+=======
+    'python',
+    'git',
+    'c++',
+    'Canva',
+    'java',
+    'MySQL',
+    'azure',
+    'django',
+
+]
+>>>>>>> origin/master
